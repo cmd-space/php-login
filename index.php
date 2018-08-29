@@ -28,7 +28,7 @@
               <h1 class="h3 mb-3 font-weight-normal">Please sign in/sign up</h1>
               <label for="email">Email address</label>
               <input type="email"
-                     class="form-control" name="email" id="email" placeholder="Enter your email address">
+                     class="form-control" name="email" id="email" placeholder="Enter your email">
               <label for="password">Password</label>
               <input type="password"
                      class="form-control" name="password" id="password" placeholder="Enter your password">
