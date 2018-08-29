@@ -8,6 +8,11 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <?php require('partials/bootstrap.php'); ?>
+</head>
+<body>
+<div class="container-fluid">
+    <!-- Main nav -->
 <?php require('partials/nav.php');
     if (!empty($_GET['message'])) {
         ?>
