@@ -1,0 +1,14 @@
+{
+    "name": "Presbyterian code challenge",
+    "description": "Login page with minor functionality",
+    "type": "project",
+    "require": {
+        "illuminate/database": "5.1.8"
+    },
+    "autoload": {
+        "psr-4": 
+        { "Controllers\\": "app/controllers/",
+            "Models\\": "app/models/"
+        }
+    }
+}
